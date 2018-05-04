@@ -13,15 +13,22 @@ In this project, we will investigate a classic phenomenon from experimental psyc
 Stroop effect refers to demonstration of interference in reaction time of the task. In this experiment, we will compare the two samples gathered using congruent words condition and incongruent words condition. The test shows there is a significant difference in the reaction time of the people in the two cases.
 
 The test consists of two phases: 
+
 1. Congruent Words Condition
- 
+   
    Reading the color of the ink with which the words are written, given that the color of the words and the word itself are same.
-
-2. Incongruent Words Condition 
-
+   
+   
+   <img src="https://github.com/deepakmodak/udacity-machine-learning-nanodegree-program/blob/master/test-a-perceptual-phenomenon/congruent-words.png" />
+   
+   
+2. Incongruent Words Condition
+   
    Reading the color of the ink with which the words are written, given that the color of the ink of the words and the word itself are different.
-
-
+   
+   <img src="https://github.com/deepakmodak/udacity-machine-learning-nanodegree-program/blob/master/test-a-perceptual-phenomenon/incongruent-words.png" />
+   
+   
 Investigation 
 
 Independent Variable –  Ink color congruency to word name. In other words, is the test on Congruent Words or Incongruent Words.
