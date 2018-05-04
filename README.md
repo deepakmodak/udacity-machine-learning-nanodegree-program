@@ -22,15 +22,15 @@ Co-created with kaggle.
 2. #### Descriptive Statistics
    Learn how to find patterns and structures in unrecorded data, perform resource transformations, and improve the predictive performance of your models.
 
-   Project ANALYZE A PERCEPTUAL PHENOMENON
+   Project [ANALYZE A PERCEPTUAL PHENOMENON](test-a-perceptual-phenomenon)
 
 3. #### Inferential Statistics
    Data analysis process: Learn how to use data to answer questions. NumPy and Pandas operations for one-dimensional data. NumPy and Pandas operations for two-dimensional data. Data modelling: Understand the basic types of data and learn how to handle data sets.
 
-   Project EXPLORE THE DATASET
+   Project [EXPLORE THE DATASET](investigate-a-dataset)
 
 4. #### Evaluation and verification
    Learn how to use the accuracy rate or recall rate and other indicators to test and measure to improve performance.
 
-   Project FORECAST PRICES
+   Project [FORECAST PRICES](predicting-boston-housing-prices)
 
