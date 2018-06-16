@@ -34,3 +34,22 @@ Co-created with kaggle.
 
    Project [FORECAST PRICES](predicting-boston-housing-prices)
 
+5. #### Bayesian Inference
+   To create a model that can classify dataset messages as spam or not spam
+
+   Project [NAIVE BAYES TUTORIAL](naive-bayes-tutorial)
+
+6. #### Supervised Learning
+   Application of supervised learning techniques on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
+
+   Project [FINDING DONORS](finding-donors)
+
+7. #### Implement Clustering
+   Step by step guide to implement k-means clustering on given data set
+
+   Project [K-MEANS CLUSTERING](k-means-clustering)
+
+8. #### Unsupervised Learning
+    Application of unsupervised learning techniques on product spending data collected for customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
+
+   Project [CREATING CUSTOMER SEGMENTS](creating-customer-segments)
